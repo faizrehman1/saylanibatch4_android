@@ -14,9 +14,9 @@ public class Main {
         System.out.println(str1.charAt(2));
 
         //Find Index of the Character
-        System.out.println(str1.indexOf('C'));
+        System.out.println(str1.indexOf('c'));
         System.out.println(str1.indexOf('C',10));
-        System.out.println(str1.indexOf("AB"));
+        System.out.println(str1.indexOf("ab"));
         System.out.println(str1.lastIndexOf('C'));
 
         //Substring
